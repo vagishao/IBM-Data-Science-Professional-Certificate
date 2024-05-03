@@ -8,3 +8,6 @@ Added Peer-graded Assignment of 25 Points
  Course- Data Analysis with Python
 
  course- Databases and SQL for Data Science with Python
+
+ Course- Python Project For Data Science
+  - Includes Peer Graded Assignment: Analyzing Historical StockRevenue Data and Building a Dashboard
