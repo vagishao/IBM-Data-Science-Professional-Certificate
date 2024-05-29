@@ -11,3 +11,6 @@ Added Peer-graded Assignment of 25 Points
 
  Course- Python Project For Data Science
   - Includes Peer Graded Assignment: Analyzing Historical StockRevenue Data and Building a Dashboard
+
+  Course- Data Visualization with Python
+  - Includes final assignment and practice exercise
