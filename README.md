@@ -14,3 +14,6 @@ Added Peer-graded Assignment of 25 Points
 
   Course- Data Visualization with Python
   - Includes final assignment and practice exercise
+
+  Course- Applied Data Science Capstone
+  - Includes Practice exercise, final assignment and presentation
